@@ -39,8 +39,8 @@
 <hr/>
 
 <div align="center">
-  <h2>✍️ Random Dev Quote</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  <h2>✍️ Project Preview</h2>
+  <img src=""/>
 </div>
 
 <hr/>

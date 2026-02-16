@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FFFFFF&height=120&section=header" alt="Header"/>
+</div>
+
+<div align="center">
   <h1>💫 About Me</h1>
   <p>
     Working on a project called <b>Poke X</b><br/>

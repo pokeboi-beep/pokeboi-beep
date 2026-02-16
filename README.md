@@ -41,7 +41,9 @@
   <h2>
     <img src="Assets/icons/bar-chart-2.svg" width="20" height="20"/> [![!
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pokeboi-beep)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pokeboi-beep&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&layout=compact&theme=dracula)
 
 <!-- GitHub Trophies -->
 <div align="center">  

@@ -7,7 +7,7 @@
 
   <!-- Animated Moving Text -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Pokemon+Fan+%F0%9F%94%A5;Lua+%7C+Python+Developer;Roblox+Game+Developer;2D+&+3D+Game+Developer" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Pokemon+Fan+%F0%9F%94%A5;Lua+%7C+Python+Developer;Roblox+Game+Developer;2D+And+3D+Game+Developer" 
          alt="Animated Typing Text" />
   </p>
 

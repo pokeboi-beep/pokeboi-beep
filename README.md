@@ -4,9 +4,9 @@
          alt="Poké Ball" 
          width="48" height="48" style="vertical-align:middle;"/>
     | About Me
-    
-  <p>  
+  </h1>  
 
+  <!-- 🔥 Animated Moving Text -->
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Pokemon+Fan+%F0%9F%94%A5;Lua+%7C+Python+Developer;Game+Development+Enthusiast;Future+Tech+Creator" 
          alt="Animated Typing Text" />
@@ -27,11 +27,10 @@
   </p>  
 </div>
 
-  <div align="center">  
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FFFFFF&height=120&section=header" alt="Header"/>  
-  </div>  
-
-<hr/>
+<!-- Animated Red→White Line -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Red-White Gradient Line" width="100%" />
+</p>
 
 <div align="center">  
   <img src="https://img.shields.io/badge/Lua-FF0000?style=for-the-badge&logo=lua&logoColor=white"/>  
@@ -40,7 +39,10 @@
   <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>  
 </div>
 
-<hr/>
+<!-- Animated Red→White Line -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Red-White Gradient Line" width="100%" />
+</p>
 
 <div align="center">  
   <h2>📊 GitHub Stats</h2>  
@@ -49,21 +51,30 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>  
 </div>
 
-<hr/>
+<!-- Animated Red→White Line -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Red-White Gradient Line" width="100%" />
+</p>
 
 <div align="center">  
   <h2>✍️ Project Preview</h2>  
   <img src="https://raw.githubusercontent.com/pokeboi-beep/pokeboi-beep/refs/heads/main/Assets/preview.png" alt="Project Preview"/>  
 </div>
 
-<hr/>
+<!-- Animated Red→White Line -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Red-White Gradient Line" width="100%" />
+</p>
 
 <div align="center">  
   <h2>🔝 Top Contributed Repo</h2>  
   <img src="https://github-contributor-stats.vercel.app/api?username=pokeboi-beep&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos"/>  
 </div>
 
-<hr/>
+<!-- Animated Red→White Line -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Red-White Gradient Line" width="100%" />
+</p>
 
 <div align="center">  
   <h2>👁️ Profile Views</h2>  

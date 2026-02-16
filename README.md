@@ -44,16 +44,33 @@
   <h2>
     <img src="Assets/icons/bar-chart-2.svg" alt="Stats" width="20" height="20"/> GitHub Stats
   </h2>  
-  <img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&show_icons=true&theme=dark" alt="GitHub Stats"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&layout=compact&theme=dark" alt="Top Languages"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pokeboi-beep&theme=dracula&hide_border=false" alt="Streak Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
 
-<!-- Project Preview -->
+<!-- GitHub Trophies -->
 <div align="center">  
   <h2>
-    <img src="Assets/icons/monitor.svg" alt="Project" width="20" height="20"/> Project Preview
-  </h2>  
-  <img src="https://raw.githubusercontent.com/pokeboi-beep/pokeboi-beep/refs/heads/main/Assets/preview.png" alt="Project Preview"/>  
+    <img src="Assets/icons/star.svg" alt="Trophies" width="20" height="20"/> GitHub Trophies
+  </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=pokeboi-beep&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+<!-- Random Dev Quote -->
+<div align="center">  
+  <h2>
+    <img src="Assets/icons/message-circle.svg" alt="Quote" width="20" height="20"/> Random Dev Quote
+  </h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote"/>
+</div>
+
+<!-- Top Contributed Repo -->
+<div align="center">  
+  <h2>
+    <img src="Assets/icons/star.svg" alt="Top Repo" width="20" height="20"/> Top Contributed Repo
+  </h2>
+  <img src="https://github-contributor-stats.vercel.app/api?username=pokeboi-beep&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </div>
 
 <!-- Profile Views -->
@@ -61,9 +78,11 @@
   <h2>
     <img src="Assets/icons/eye.svg" alt="Profile Views" width="20" height="20"/> Profile Views
   </h2>  
-  <img src="https://img.shields.io/badge/Profile-Views-FF0000?style=for-the-badge" alt="Profile Views Placeholder"/>  
+  <a href="https://visitcount.itsvg.in">  
+    <img src="https://visitcount.itsvg.in/api?id=pokeboi-beep&icon=0&color=4" alt="Profile Views"/>  
+  </a>  
 </div>
 
 <p align="center">  
-  <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->  
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
 </p>

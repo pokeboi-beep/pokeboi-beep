@@ -39,7 +39,7 @@
 <!-- GitHub Stats -->
 <div align="center">  
   <h2>
-    <img src="Assets/icons/bar-chart-2.svg" width="20" height="20"/> Github Stats
+    <img src="Assets/icons/bar-chart-2.svg" width="20" height="20"/>Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pokeboi-beep&show_icons=true&theme=dracula)
 

@@ -1,97 +1,64 @@
-<!-- 🔴⚪ Pokéball Header -->
-
-<h1 align="center">
-  🔴⚪ Emirul | Poke X Developer ⚪🔴
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Poke+X+Creator;Lua+%7C+Python+Developer;Pokemon+Enthusiast;Building+The+Future" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="120"/>
-</p>
-
----
-
-<!-- Pokéball Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/9XnKXKq.png" width="100%"/>
-</p>
-
-## 🔥 About Me
-
 <div align="center">
-
-🔴 Currently developing **Poke X**  
-⚪ Pokémon Lover & Collector  
-🔴 Codes in **Lua & Python**  
-⚪ Game Development Helper  
-🔴 Intel Laptop Powered  
-⚪ Favorite Pokémon: **Zygarde**  
-🔴 Most Expensive Card: **Dialga GX Full Art (SM06)** (~$45 USD)
-
+  <h1>💫 About Me</h1>
+  <p>
+    Working on a project called <b>Poke X</b><br/>
+    Pokémon lover<br/>
+    Codes in <b>Lua</b> and <b>Python</b><br/>
+    Helps in game development<br/>
+    Uses an Intel laptop for my projects<br/>
+    Favorite Pokémon: <b>Zygarde</b><br/>
+    Most expensive Pokémon card: <b>Dialga GX (Full Art) SM Forbidden Light SM06</b> (~$45 USD)
+  </p>
 </div>
 
----
+<hr/>
+
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+  <p>
+    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+    <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  </p>
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  </div>
+  <div>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=pokeboi-beep&theme=dark&hide_border=false" alt="Streak Stats"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  </div>
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>✍️ Project Preview</h2>
+  <img src="https://raw.githubusercontent.com/pokeboi-beep/pokeboi-beep/refs/heads/main/Assets/preview.png"/>
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>🔝 Top Contributed Repo</h2>
+  <img src="https://github-contributor-stats.vercel.app/api?username=pokeboi-beep&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos"/>
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>👁️ Profile Views</h2>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=pokeboi-beep&icon=0&color=0" alt="Profile Views"/>
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://i.imgur.com/9XnKXKq.png" width="100%"/>
-</p>
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Lua-FF0000?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
-
-</div>
-
----
-
-## 🧪 Capsule Render
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/premier-ball.png" width="140"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" width="140"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="140"/>
-
-</div>
-
----
-
-## 📊 Trainer Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&theme=radical&hide_border=true&show_icons=true"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&theme=radical&hide_border=true&layout=compact"/>
-
-</div>
-
----
-
-## 🏆 Top Contributions
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pokeboi-beep&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</div>
-
----
-
-<p align="center">
-  👁️ Profile Views
-  <br/>
-  <img src="https://visitcount.itsvg.in/api?id=pokeboi-beep&icon=0&color=1"/>
-</p>
-
----
-
-<p align="center">
-  🔴 "Train Hard. Code Harder." ⚪
+  <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 </p>

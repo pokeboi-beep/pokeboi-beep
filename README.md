@@ -60,7 +60,7 @@
   <h2>
     <img src="Assets/icons/monitor.svg" width="20" height="20"/> Project Preview
   </h2>
-  <img src="https://raw.githubusercontent.com/pokeboi-beep/pokeboi-beep/refs/heads/main/Assets/preview.png" alt="Project Preview"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pokeboi-beep&theme=dracula&no-frame=true&no-bg=true&margin-w=5)
 </div>
 
 <!-- Random Dev Quote -->
@@ -76,7 +76,7 @@
   <h2>
     <img src="Assets/icons/star.svg" width="20" height="20"/> Top Contributed Repo
   </h2>
-  <img src="https://img.shields.io/badge/Top-Repo-pokeboi--beep-red?style=for-the-badge&logo=github" alt="Top Contributed Repo"/>
+![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&layout=compact&theme=dracula)
 </div>
 
 <!-- Profile Views -->
@@ -88,5 +88,5 @@
 </div>
 
 <p align="center">  
-  <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->  
+
 </p>

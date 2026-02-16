@@ -27,11 +27,6 @@
   </p>  
 </div>
 
-<!-- Red line -->
-<div align="center">
-  <img src="https://via.placeholder.com/600x3/FF0000/FF0000" alt="Red Line"/>
-</div>
-
 <div align="center">  
   <img src="https://img.shields.io/badge/Lua-FF0000?style=for-the-badge&logo=lua&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black"/>  
@@ -39,21 +34,11 @@
   <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>  
 </div>
 
-<!-- White line -->
-<div align="center">
-  <img src="https://via.placeholder.com/600x3/FFFFFF/FFFFFF" alt="White Line"/>
-</div>
-
 <div align="center">  
   <h2>📊 GitHub Stats</h2>  
-  <!-- Only github-readme-stats to avoid fetch issues -->
   <img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&show_icons=true&theme=dark" alt="GitHub Stats"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&layout=compact&theme=dark" alt="Top Languages"/>  
-</div>
-
-<!-- Red line -->
-<div align="center">
-  <img src="https://via.placeholder.com/600x3/FF0000/FF0000" alt="Red Line"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokeboi-beep&theme=dark" alt="GitHub Streak Stats"/>  
 </div>
 
 <div align="center">  
@@ -61,19 +46,9 @@
   <img src="https://raw.githubusercontent.com/pokeboi-beep/pokeboi-beep/refs/heads/main/Assets/preview.png" alt="Project Preview"/>  
 </div>
 
-<!-- White line -->
-<div align="center">
-  <img src="https://via.placeholder.com/600x3/FFFFFF/FFFFFF" alt="White Line"/>
-</div>
-
 <div align="center">  
   <h2>🔝 Top Contributed Repo</h2>  
   <img src="https://img.shields.io/badge/Top-Repo-FF0000?style=for-the-badge" alt="Top Repo Placeholder"/>  
-</div>
-
-<!-- Red line -->
-<div align="center">
-  <img src="https://via.placeholder.com/600x3/FF0000/FF0000" alt="Red Line"/>
 </div>
 
 <div align="center">  
@@ -81,11 +56,6 @@
   <a href="https://visitcount.itsvg.in">  
     <img src="https://visitcount.itsvg.in/api?id=pokeboi-beep&icon=0&color=0" alt="Profile Views"/>  
   </a>  
-</div>
-
-<!-- White line -->
-<div align="center">
-  <img src="https://via.placeholder.com/600x3/FFFFFF/FFFFFF" alt="White Line"/>
 </div>
 
 <p align="center">  

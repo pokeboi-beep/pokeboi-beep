@@ -39,11 +39,8 @@
 <!-- GitHub Stats -->
 <div align="center">  
   <h2>
-    <img src="Assets/icons/bar-chart-2.svg" width="20" height="20"/> GitHub Stats
-  </h2>  
-  <img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&theme=dracula&layout=compact&include_all_commits=true" alt="Top Languages"/>
-</div>
+    <img src="Assets/icons/bar-chart-2.svg" width="20" height="20"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GitHub Trophies -->
 <div align="center">  

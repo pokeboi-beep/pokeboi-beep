@@ -4,9 +4,9 @@
          alt="Poké Ball" 
          width="48" height="48" style="vertical-align:middle;"/>
     | About Me
-  </h1>  
+    
+  <p>  
 
-  <!-- 🔥 Animated Moving Text -->
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Pokemon+Fan+%F0%9F%94%A5;Lua+%7C+Python+Developer;Game+Development+Enthusiast;Future+Tech+Creator" 
          alt="Animated Typing Text" />
@@ -26,6 +26,10 @@
     Most expensive Pokémon card: <b>Dialga GX (Full Art) SM Forbidden Light SM06</b> (~$45 USD)  
   </p>  
 </div>
+
+  <div align="center">  
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FFFFFF&height=120&section=header" alt="Header"/>  
+  </div>  
 
 <hr/>
 

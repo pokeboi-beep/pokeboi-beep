@@ -5,7 +5,7 @@
     | About Me
   </h1>  
 
-  <!-- 🔥 Animated Moving Text -->
+  <!-- Animated Moving Text -->
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Pokemon+Fan+%F0%9F%94%A5;Lua+%7C+Python+Developer;Game+Development+Enthusiast;Future+Tech+Creator" 
          alt="Animated Typing Text" />
@@ -36,33 +36,25 @@
   <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>  
 </div>
 
-<!-- Project Preview -->
-<div align="center">
-  <h2>
-    <img src="Assets/icons/monitor.svg" width="20" height="20"/> Project Preview
-  </h2>
-  <img src="https://raw.githubusercontent.com/pokeboi-beep/pokeboi-beep/refs/heads/main/Assets/preview.png" alt="Project Preview"/>
-</div>
-
 <!-- GitHub Stats -->
-<div align="center">
+<div align="center">  
   <h2>
     <img src="Assets/icons/bar-chart-2.svg" width="20" height="20"/> GitHub Stats
-  </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&theme=dracula&hide_border=false&layout=compact&count_private=false" alt="Top Languages"/>
+  </h2>  
+  <img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&theme=dracula&layout=compact&include_all_commits=true" alt="Top Languages"/>
 </div>
 
 <!-- GitHub Trophies -->
-<div align="center">
+<div align="center">  
   <h2>
     <img src="Assets/icons/star.svg" width="20" height="20"/> GitHub Trophies
   </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=pokeboi-beep&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pokeboi-beep&theme=dracula&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 <!-- Random Dev Quote -->
-<div align="center">
+<div align="center">  
   <h2>
     <img src="Assets/icons/message-circle.svg" width="20" height="20"/> Random Dev Quote
   </h2>
@@ -70,22 +62,21 @@
 </div>
 
 <!-- Top Contributed Repo -->
-<div align="center">
+<div align="center">  
   <h2>
     <img src="Assets/icons/star.svg" width="20" height="20"/> Top Contributed Repo
   </h2>
-  <!-- Stable fallback badge -->
   <img src="https://img.shields.io/badge/Top-Repo-pokeboi--beep-red?style=for-the-badge&logo=github" alt="Top Contributed Repo"/>
 </div>
 
 <!-- Profile Views -->
-<div align="center">
+<div align="center">  
   <h2>
     <img src="Assets/icons/eye.svg" width="20" height="20"/> Profile Views
-  </h2>
+  </h2>  
   <img src="https://komarev.com/ghpvc/?username=pokeboi-beep&color=red" alt="Profile Views"/>
 </div>
 
-<p align="center">
-  <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<p align="center">  
+  <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->  
 </p>

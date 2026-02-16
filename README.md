@@ -61,12 +61,19 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote"/>
 </div>
 
+<!-- Project Preview -->
+<div align="center">  
+  <h2>
+    <img src="Assets/icons/monitor.svg" width="20" height="20"/> Project Preview
+  </h2>
+  <img src="https://raw.githubusercontent.com/pokeboi-beep/pokeboi-beep/refs/heads/main/Assets/preview.png" alt="Project Preview"/>
+</div>
+
 <!-- Top Contributed Repo -->
 <div align="center">  
   <h2>
     <img src="Assets/icons/star.svg" width="20" height="20"/> Top Contributed Repo
   </h2>
-  <!-- Use stable Shields.io badge for top repo -->
   <img src="https://img.shields.io/badge/Top-Repo-pokeboi--beep-red?style=for-the-badge&logo=github" alt="Top Contributed Repo"/>
 </div>
 

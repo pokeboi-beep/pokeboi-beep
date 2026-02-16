@@ -53,20 +53,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pokeboi-beep&theme=dracula&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-<!-- Random Dev Quote -->
-<div align="center">  
-  <h2>
-    <img src="Assets/icons/message-circle.svg" width="20" height="20"/> Random Dev Quote
-  </h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote"/>
-</div>
-
 <!-- Project Preview -->
 <div align="center">  
   <h2>
     <img src="Assets/icons/monitor.svg" width="20" height="20"/> Project Preview
   </h2>
   <img src="https://raw.githubusercontent.com/pokeboi-beep/pokeboi-beep/refs/heads/main/Assets/preview.png" alt="Project Preview"/>
+</div>
+
+<!-- Random Dev Quote -->
+<div align="center">  
+  <h2>
+    <img src="Assets/icons/message-circle.svg" width="20" height="20"/> Random Dev Quote
+  </h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Dev Quote"/>
 </div>
 
 <!-- Top Contributed Repo -->

@@ -27,8 +27,11 @@
   </p>  
 </div>
 
-<!-- Red/White alternating lines -->
-<hr style="border: 2px solid #FF0000; width: 80%;"/>
+<!-- Red line -->
+<div align="center">
+  <img src="https://via.placeholder.com/600x3/FF0000/FF0000" alt="Red Line"/>
+</div>
+
 <div align="center">  
   <img src="https://img.shields.io/badge/Lua-FF0000?style=for-the-badge&logo=lua&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black"/>  
@@ -36,30 +39,42 @@
   <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>  
 </div>
 
-<hr style="border: 2px solid #FFFFFF; width: 80%;"/>
+<!-- White line -->
+<div align="center">
+  <img src="https://via.placeholder.com/600x3/FFFFFF/FFFFFF" alt="White Line"/>
+</div>
 
 <div align="center">  
   <h2>📊 GitHub Stats</h2>  
-  <img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pokeboi-beep&theme=dark&hide_border=false" alt="Streak Stats"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&theme=dark&show_icons=true&count_private=false" alt="GitHub Stats"/>  
+  <img src="https://streak-stats.demolab.com/?user=pokeboi-beep&theme=dark" alt="Streak Stats"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&theme=dark&layout=compact" alt="Top Languages"/>  
 </div>
 
-<hr style="border: 2px solid #FF0000; width: 80%;"/>
+<!-- Red line -->
+<div align="center">
+  <img src="https://via.placeholder.com/600x3/FF0000/FF0000" alt="Red Line"/>
+</div>
 
 <div align="center">  
   <h2>✍️ Project Preview</h2>  
   <img src="https://raw.githubusercontent.com/pokeboi-beep/pokeboi-beep/refs/heads/main/Assets/preview.png" alt="Project Preview"/>  
 </div>
 
-<hr style="border: 2px solid #FFFFFF; width: 80%;"/>
+<!-- White line -->
+<div align="center">
+  <img src="https://via.placeholder.com/600x3/FFFFFF/FFFFFF" alt="White Line"/>
+</div>
 
 <div align="center">  
   <h2>🔝 Top Contributed Repo</h2>  
   <img src="https://github-contributor-stats.vercel.app/api?username=pokeboi-beep&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos"/>  
 </div>
 
-<hr style="border: 2px solid #FF0000; width: 80%;"/>
+<!-- Red line -->
+<div align="center">
+  <img src="https://via.placeholder.com/600x3/FF0000/FF0000" alt="Red Line"/>
+</div>
 
 <div align="center">  
   <h2>👁️ Profile Views</h2>  
@@ -68,7 +83,10 @@
   </a>  
 </div>
 
-<hr style="border: 2px solid #FFFFFF; width: 80%;"/>
+<!-- White line -->
+<div align="center">
+  <img src="https://via.placeholder.com/600x3/FFFFFF/FFFFFF" alt="White Line"/>
+</div>
 
 <p align="center">  
   <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->  

@@ -36,9 +36,9 @@
 
 <div align="center">  
   <h2>📊 GitHub Stats</h2>  
+  <!-- Only reliable github-readme-stats endpoints -->
   <img src="https://github-readme-stats.vercel.app/api?username=pokeboi-beep&show_icons=true&theme=dark" alt="GitHub Stats"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeboi-beep&layout=compact&theme=dark" alt="Top Languages"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokeboi-beep&theme=dark" alt="GitHub Streak Stats"/>  
 </div>
 
 <div align="center">  
@@ -48,14 +48,14 @@
 
 <div align="center">  
   <h2>🔝 Top Contributed Repo</h2>  
+  <!-- Use a static placeholder badge (dynamic Top Repo requires a server) -->
   <img src="https://img.shields.io/badge/Top-Repo-FF0000?style=for-the-badge" alt="Top Repo Placeholder"/>  
 </div>
 
 <div align="center">  
   <h2>👁️ Profile Views</h2>  
-  <a href="https://visitcount.itsvg.in">  
-    <img src="https://visitcount.itsvg.in/api?id=pokeboi-beep&icon=0&color=0" alt="Profile Views"/>  
-  </a>  
+  <!-- Removed visitcount.itsvg.in because it is unreliable -->
+  <img src="https://img.shields.io/badge/Profile-Views-FF0000?style=for-the-badge" alt="Profile Views Placeholder"/>  
 </div>
 
 <p align="center">  

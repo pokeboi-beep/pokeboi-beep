@@ -66,6 +66,7 @@
   <h2>
     <img src="Assets/icons/star.svg" width="20" height="20"/> Top Contributed Repo
   </h2>
+  <!-- Use stable Shields.io badge for top repo -->
   <img src="https://img.shields.io/badge/Top-Repo-pokeboi--beep-red?style=for-the-badge&logo=github" alt="Top Contributed Repo"/>
 </div>
 

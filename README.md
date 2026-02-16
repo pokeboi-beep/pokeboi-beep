@@ -40,7 +40,7 @@
 
 <div align="center">
   <h2>✍️ Project Preview</h2>
-  <img src=""/>
+  <img src="https://raw.githubusercontent.com/pokeboi-beep/pokeboi-beep/refs/heads/main/Assets/preview.png"/>
 </div>
 
 <hr/>

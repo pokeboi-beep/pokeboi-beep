@@ -11,31 +11,44 @@
          alt="Animated Typing Text" />
   </p>
 
-  <div align="center">  
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FFFFFF&height=120&section=header" alt="Header"/>  
-  </div>  
+ <!-- About Me Card (Rounded Borders with Subtle Red Glow Accent) -->
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, #1f1115 0%, #11111b 100%); border-radius: 16px; padding: 24px; border: 1px solid #4a1525;">
+        <h3 align="center" style="color: #ff4d4d;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg" width="26" height="26" style="vertical-align:middle;"/> 
+          <b>About Me</b>
+        </h3>
+        <p align="center">
+          🚀 Currently working on <b>MyHost</b><br/>  
+          🎮 Passionate about <b>Game Development</b> & <b>Software Development</b><br/>  
+          💻 Primary languages: <b>Lua</b>, <b>Shell</b>, and <b>Python</b><br/>  
+          🛡️ Favorite Pokémon: <b>Zygarde</b> & <b>Gengar</b><br/>  
+          💎 Favorite Card: <b>Dialga GX (Full Art)</b> <i>SM Forbidden Light SM06</i> (~$45 USD)
+        </p>
+      </td>
+    </tr>
+  </table>
 
-  <p>  
-    <img src="Assets/icons/rocket.svg" width="16" height="16"/> Currently working on <b>MyHost</b><br/>  
-    <img src="Assets/icons/gamepad.svg" width="16" height="16"/> Passionate about game development and software development.<br/>  
-    <img src="Assets/icons/code.svg" width="16" height="16"/> Codes in <b>Lua</b>, <b>Shell</b> and <b>Python</b><br/>  
-    <img src="Assets/icons/laptop.svg" width="16" height="16"/> Uses a mid-range laptop<br/>  
-    <img src="Assets/icons/shield.svg" width="16" height="16"/> Favorite Pokémon: <b>Zygarde, Gengar</b><br/>  
-    <img src="Assets/icons/gem.svg" width="16" height="16"/> Most expensive Pokémon card: <b>Dialga GX (Full Art) SM Forbidden Light SM06</b> (~$45 USD)  
-  </p>  
-</div>
+  <br />  
+<!-- Tech Stack (Rounded Card + Red Theme Accents) -->
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, #1f1115 0%, #11111b 100%); border-radius: 16px; padding: 20px; border: 1px solid #4a1525;">
+        <h3 align="center">🔥 Tech Stack</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Lua-8B0000?style=for-the-badge&logo=lua&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-B22222?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/GNU%20Bash-800000?style=for-the-badge&logo=gnubash&logoColor=white" />
+          <img src="https://img.shields.io/badge/VSCode-4A0000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub-2B0000?style=for-the-badge&logo=github&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
 
-<!-- Tech Stack -->
-<div align="center">  
-  <h2>
-    <img src="Assets/icons/layers.svg" width="20" height="20"/> Tech Stack
-  </h2>
-  <img src="https://img.shields.io/badge/Lua-FF0000?style=for-the-badge&logo=lua&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=shell&logoColor=white"/>  
-</div>
+  <br />
+
 
 <!-- GitHub Stats -->
 <div align="center">  

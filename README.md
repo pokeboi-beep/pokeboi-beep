@@ -16,11 +16,11 @@
   </div>  
 
   <p>  
-    <img src="Assets/icons/rocket.svg" width="16" height="16"/> Currently working on <b>Poke X</b><br/>  
-    <img src="Assets/icons/gamepad.svg" width="16" height="16"/> Passionate about game development<br/>  
-    <img src="Assets/icons/code.svg" width="16" height="16"/> Codes in <b>Lua</b> and <b>Python</b><br/>  
-    <img src="Assets/icons/laptop.svg" width="16" height="16"/> Uses an Intel-powered laptop<br/>  
-    <img src="Assets/icons/shield.svg" width="16" height="16"/> Favorite Pokémon: <b>Zygarde</b><br/>  
+    <img src="Assets/icons/rocket.svg" width="16" height="16"/> Currently working on <b>MyHost</b><br/>  
+    <img src="Assets/icons/gamepad.svg" width="16" height="16"/> Passionate about game development and software development.<br/>  
+    <img src="Assets/icons/code.svg" width="16" height="16"/> Codes in <b>Lua</b>, <b>Shell</b> and <b>Python</b><br/>  
+    <img src="Assets/icons/laptop.svg" width="16" height="16"/> Uses a mid-range laptop<br/>  
+    <img src="Assets/icons/shield.svg" width="16" height="16"/> Favorite Pokémon: <b>Zygarde, Gengar</b><br/>  
     <img src="Assets/icons/gem.svg" width="16" height="16"/> Most expensive Pokémon card: <b>Dialga GX (Full Art) SM Forbidden Light SM06</b> (~$45 USD)  
   </p>  
 </div>
@@ -33,7 +33,8 @@
   <img src="https://img.shields.io/badge/Lua-FF0000?style=for-the-badge&logo=lua&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black"/>  
   <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=shell&logoColor=white"/>  
 </div>
 
 <!-- GitHub Stats -->

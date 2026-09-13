@@ -1,3 +1,8 @@
+<div align="center">
+
+  <!-- Header Banner (Red/Dark Theme Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF1E27,50:#3E0000,100:11111B&height=180&section=header&text=Hi%20there,%20I'm%20pokeboi-beep!%20👋&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
+
 <div align="center">  
   <h1>
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg" 
